@@ -26,7 +26,7 @@ A non-fungible token is a unique and non-interchangeable unit of data stored on 
 ### Deployed Link
 [NFT Marketplace](https://tezos-nftmarketplace.vercel.app/)
 
-### Smart Contract Link
+### Smart Contract Link ( https://smartpy.dev/ide )
 
 [SmartPy Contract]
 ## Demo
